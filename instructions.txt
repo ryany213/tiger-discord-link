@@ -1,0 +1,11 @@
+https://ryany213.github.io/tiger-discord-link/
+
+1 - copy the link provided above and then paste it into your browser
+
+2 - after the slash in a new tab of your desktop or laptop browser type in a image file uploaded into the repository ex: "https://ryany213.github.io/tiger-discord-link/my picture.png"
+
+3 - go to the URL and the browser does all the magic for you you should get a link like "https://ryany213.github.io/tiger-discord-link/my%20picture.png" or other 
+
+4 - once you have your link you're going to double click the address bar and copy that link
+
+5 - now you have your link and you can spread it wherever you want
